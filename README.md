@@ -1,7 +1,7 @@
-# Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Olá" width="30" style="max-width: 100%"> I'm Jonathan Silva.
+# Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Olá" width="30" style="max-width: 100%"> I'm Jonathan Silva!
 <br/>
 
-<h1>Front-End Developer</h1>
+<h1>Full-Stack Developer</h1>
 
 I am a Front-End Developer transitioning to software development, with experience in technologies such as HTML, CSS, JavaScript, and modern frameworks, including React. I am committed to creating intuitive and responsive user interfaces, focusing on excellence in user experience and code quality. For more information about my professional journey, you can visit my profile on [LinkedIn](https://www.linkedin.com/in/jonathan-gs). I am constantly improving my skills and looking to collaborate on challenging projects that promote innovative and efficient solutions.
 
